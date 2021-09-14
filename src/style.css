@@ -1,0 +1,20 @@
+h1, p {
+  font-family: Lato;
+}
+
+.status {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.square {
+  background: rgb(253, 252, 252);
+  border: 1px solid #999;
+  width: 25px;
+  height: 25px ;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-left: 5px;
+}
